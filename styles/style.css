@@ -30,6 +30,7 @@ body {
 	list-style-postion:inside
 	text-align: left; ;display: inline-block;
 }
-input, label{
+input, label,textarea{
 	display: block;
+	margin-top: .3 me; ;
 }
