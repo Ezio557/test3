@@ -22,3 +22,14 @@ table, td, th{
 	margin: auto;
 	text-align: center;
 }
+body {
+	color: red;
+}
+.center-list{
+	width: 50%
+	list-style-postion:inside
+	text-align: left; ;display: inline-block;
+}
+input, label{
+	display: block;
+}
